@@ -1,0 +1,426 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Maible Ardern",
+      "email": "mardern0@last.fm",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "fullName": "Derick McGiven",
+      "email": "dmcgiven1@oaic.gov.au",
+      "isStaff": true
+    },
+    {
+      "id": 3,
+      "fullName": "Kaile Davidsson",
+      "email": "kdavidsson2@ifeng.com",
+      "isStaff": true
+    },
+    {
+      "id": 4,
+      "fullName": "Cassi Tripony",
+      "email": "ctripony3@mtv.com",
+      "isStaff": true
+    },
+    {
+      "id": 5,
+      "fullName": "Udell Motion",
+      "email": "umotion4@mapy.cz",
+      "isStaff": true
+    },
+    {
+      "id": 6,
+      "fullName": "Erinna Pietersma",
+      "email": "epietersma5@drupal.org",
+      "isStaff": true
+    },
+    {
+      "id": 7,
+      "fullName": "Matteo McQuode",
+      "email": "mmcquode6@about.com",
+      "isStaff": true
+    },
+    {
+      "id": 8,
+      "fullName": "Tedd Sommersett",
+      "email": "tsommersett7@youku.com",
+      "isStaff": false
+    },
+    {
+      "id": 9,
+      "fullName": "Tatiania Clapson",
+      "email": "tclapson8@baidu.com",
+      "isStaff": true
+    },
+    {
+      "id": 10,
+      "fullName": "Minnnie Burker",
+      "email": "mburker9@paypal.com",
+      "isStaff": true
+    },
+    {
+      "id": 11,
+      "fullName": "Jena Baggott",
+      "email": "jbaggotta@miitbeian.gov.cn",
+      "isStaff": true
+    },
+    {
+      "id": 12,
+      "fullName": "Robbie Haffner",
+      "email": "rhaffnerb@guardian.co.uk",
+      "isStaff": true
+    },
+    {
+      "id": 13,
+      "fullName": "Stearn Nancekivell",
+      "email": "snancekivellc@un.org",
+      "isStaff": false
+    },
+    {
+      "id": 14,
+      "fullName": "Nikaniki Gaucher",
+      "email": "ngaucherd@soundcloud.com",
+      "isStaff": false
+    },
+    {
+      "id": 15,
+      "fullName": "Susana Jeskin",
+      "email": "sjeskine@51.la",
+      "isStaff": false
+    },
+    {
+      "fullName": "Biff Hardcheese",
+      "email": "",
+      "isStaff": true,
+      "id": 16
+    },
+    {
+      "fullName": "Mister Shit",
+      "email": "losurdowasright@gmail.com",
+      "isStaff": true,
+      "id": 17
+    },
+    {
+      "fullName": "Dougie Jones",
+      "email": "djones@bigboymail.edu",
+      "isStaff": true,
+      "id": 18
+    },
+    {
+      "fullName": "AbracaDaniel",
+      "email": "acdc@ooo.gov",
+      "isStaff": true,
+      "id": 19
+    },
+    {
+      "fullName": "Jim Jams",
+      "email": "jimjams@boogaloo.org",
+      "isStaff": true,
+      "id": 20
+    },
+    {
+      "fullName": "Chaudry Biggums",
+      "email": "CBiggums@angelfire.net",
+      "isStaff": true,
+      "id": 21
+    },
+    {
+      "fullName": "Homie D. Clown",
+      "email": "HDClown@livingcolor.com",
+      "isStaff": true,
+      "id": 22
+    },
+    {
+      "fullName": "Slurp Skidson",
+      "email": "SSkids@geemale.com",
+      "isStaff": true,
+      "id": 23
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "loyaltyNumber": 90844,
+      "userId": 4
+    },
+    {
+      "id": 2,
+      "loyaltyNumber": 61729,
+      "userId": 7
+    },
+    {
+      "id": 3,
+      "loyaltyNumber": 12633,
+      "userId": 5
+    },
+    {
+      "id": 4,
+      "loyaltyNumber": 46985,
+      "userId": 6
+    },
+    {
+      "id": 5,
+      "loyaltyNumber": 55902,
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "loyaltyNumber": 15747,
+      "userId": 8
+    },
+    {
+      "id": 7,
+      "loyaltyNumber": 12650,
+      "userId": 2
+    },
+    {
+      "id": 8,
+      "loyaltyNumber": 60658,
+      "userId": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "startDate": "8/13/2021",
+      "payRate": 23,
+      "userId": 12,
+      "locationId": 4
+    },
+    {
+      "id": 2,
+      "startDate": "5/12/2022",
+      "payRate": 15,
+      "userId": 13,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "startDate": "5/30/2021",
+      "payRate": 15,
+      "userId": 10,
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "startDate": "2/26/2022",
+      "payRate": 19,
+      "userId": 15,
+      "locationId": 2
+    },
+    {
+      "id": 5,
+      "startDate": "9/24/2021",
+      "payRate": 20,
+      "userId": 14,
+      "locationId": 3
+    },
+    {
+      "id": 6,
+      "startDate": "5/25/2022",
+      "payRate": 18,
+      "userId": 11,
+      "locationId": 1
+    },
+    {
+      "id": 7,
+      "startDate": "1/24/2021",
+      "payRate": 19,
+      "userId": 9,
+      "locationId": 3
+    },
+    {
+      "locationId": "3",
+      "startDate": "2022-10-12",
+      "payRate": "24",
+      "userId": 16,
+      "id": 8
+    },
+    {
+      "locationId": "3",
+      "startDate": "2022-10-27",
+      "payRate": "28",
+      "userId": 17,
+      "id": 9
+    },
+    {
+      "locationId": "3",
+      "startDate": "2022-09-17",
+      "payRate": "15",
+      "userId": 18,
+      "id": 10
+    },
+    {
+      "locationId": "3",
+      "startDate": "2022-09-30",
+      "payRate": "15",
+      "userId": 19,
+      "id": 11
+    },
+    {
+      "locationId": "2",
+      "startDate": "2022-10-13",
+      "payRate": "16",
+      "userId": 20,
+      "id": 12
+    },
+    {
+      "locationId": "1",
+      "startDate": "2022-09-30",
+      "payRate": "14",
+      "userId": 21,
+      "id": 13
+    },
+    {
+      "locationId": "2",
+      "startDate": "2022-10-20",
+      "payRate": "23",
+      "userId": 22,
+      "id": 14
+    },
+    {
+      "locationId": "2",
+      "startDate": "2022-11-17",
+      "payRate": "22",
+      "userId": 23,
+      "id": 15
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "address": "27 Hallows Trail",
+      "squareFootage": 2382
+    },
+    {
+      "id": 2,
+      "address": "7685 Arrowood Center",
+      "squareFootage": 2060
+    },
+    {
+      "id": 3,
+      "address": "38061 Chinook Junction",
+      "squareFootage": 2040
+    },
+    {
+      "id": 4,
+      "address": "0062 Melody Center",
+      "squareFootage": 2076
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product": "Altoids",
+      "productTypeId": 6,
+      "price": 2
+    },
+    {
+      "id": 2,
+      "product": "Gummy Bears",
+      "productTypeId": 3,
+      "price": 4
+    },
+    {
+      "id": 3,
+      "product": "Snickers",
+      "productTypeId": 2,
+      "price": 1
+    },
+    {
+      "id": 4,
+      "product": "Jawbreakers",
+      "productTypeId": 1,
+      "price": 3
+    },
+    {
+      "id": 5,
+      "product": "Blow Pops",
+      "productTypeId": 1,
+      "price": 5
+    },
+    {
+      "id": 6,
+      "product": "Starlight Mints",
+      "productTypeId": 6,
+      "price": 2
+    },
+    {
+      "id": 7,
+      "product": "Butterfinger",
+      "productTypeId": 2,
+      "price": 2
+    },
+    {
+      "id": 8,
+      "product": "Good & Plenty",
+      "productTypeId": 4,
+      "price": 3
+    },
+    {
+      "id": 9,
+      "product": "Klondike",
+      "productTypeId": 5,
+      "price": 3
+    },
+    {
+      "id": 10,
+      "product": "Magnum",
+      "productTypeId": 5,
+      "price": 4
+    },
+    {
+      "product": "Kitty Surprise",
+      "productTypeId": "1",
+      "price": "5",
+      "id": 11
+    },
+    {
+      "product": "Wife Water",
+      "productTypeId": "1",
+      "price": "4",
+      "id": 12
+    },
+    {
+      "product": "Corn Liquor-ice",
+      "productTypeId": "4",
+      "price": "10",
+      "id": 13
+    },
+    {
+      "product": "THE STUFF",
+      "productTypeId": "1",
+      "price": "10",
+      "id": 14
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "name": "goop"
+    },
+    {
+      "id": 2,
+      "name": "chocolate bar"
+    },
+    {
+      "id": 3,
+      "name": "gummies"
+    },
+    {
+      "id": 4,
+      "name": "licorice"
+    },
+    {
+      "id": 5,
+      "name": "ice cream"
+    },
+    {
+      "id": 6,
+      "name": "mints"
+    }
+  ],
+  "purchases": []
+}
